@@ -1,0 +1,2 @@
+# Directory for game save files
+# Game saves will be stored here

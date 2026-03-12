@@ -1,0 +1,2 @@
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python311/python.exe "d:/Code/Python/S4_L2N1/Interface textuelle/Branche/bug_003/it_v2.3_seed1.py"
+quit

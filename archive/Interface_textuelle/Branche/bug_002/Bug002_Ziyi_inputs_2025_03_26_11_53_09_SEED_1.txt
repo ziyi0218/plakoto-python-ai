@@ -1,0 +1,50 @@
+lance
+move 1 3
+move 1 6
+lance
+move 24 23
+move 23 20
+lance
+move 6 10
+move 3 4
+lance
+move 24 20
+move 20 16
+move 24 16
+move 20 16
+move 24 20
+lance
+move 4 10
+move 1 5
+lance
+move 2 19
+move 20 19
+move 24 22
+lance
+move  5 9
+move 9 10
+move 
+move 19 18
+lance
+move 24 20
+move 24 20
+move 24 20
+move 20 16
+lance
+move 10 15
+move 1 2
+lance
+move 22 16
+move 24 20
+lance
+move 1 7
+move 7 10
+lance
+move 24 19
+move 24 22
+lance
+move 1 2
+move 1 4
+lance
+move 16 15
+quit
