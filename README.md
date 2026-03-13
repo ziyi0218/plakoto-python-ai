@@ -268,12 +268,16 @@ Potential future extensions include:
 
 ## Authors
 
-This project was developed as a team university project.
+This project was developed as a team university project under the supervision of **Bruno Bouzy**.
 
-* Ren Ziyi
-* Ya Hassrol
+### Student Team Members
+* Ziyi Ren
+* Hassrol Ya
 * Ruby Ghanime
 * Mahdi Bennamane
+
+### Project Supervisor
+* **Bruno Bouzy** - Project supervisor and advisor
 
 ---
 
